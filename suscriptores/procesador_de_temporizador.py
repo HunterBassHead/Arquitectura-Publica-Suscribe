@@ -11,7 +11,7 @@
 #
 #   Las características de ésta clase son las siguientes:
 #
-#                                   procesador_de_temperatura.py
+#                                   procesador_de_temporizador.py
 #           +-----------------------+-------------------------+------------------------+
 #           |  Nombre del elemento  |     Responsabilidad     |      Propiedades       |
 #           +-----------------------+-------------------------+------------------------+
